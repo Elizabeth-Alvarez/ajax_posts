@@ -1,0 +1,4 @@
+A ‘posts page’ where users can add notes. 
+
+Simple Codeigniter application using Ajax techniques to immediately post messages without refreshing the page. When the user adds the post, that creates an ajax call which is directed to the controller method, pointed to the model method, then stored in the database. In return, the message is displayed on top of the page.   
+
